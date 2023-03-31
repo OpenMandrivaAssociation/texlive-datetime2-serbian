@@ -1,6 +1,6 @@
 Name:		texlive-datetime2-serbian
 Version:	52893
-Release:	1
+Release:	2
 Summary:	Serbian language module for the datetime2 package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-serbian
